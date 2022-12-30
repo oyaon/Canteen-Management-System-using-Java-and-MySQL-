@@ -104,10 +104,6 @@ public class AddCustomer extends JFrame implements ActionListener {
         l9.setBounds (35, 360, 150, 20);
         add (l9);
         
-        
-        
-        
-        
         t5 = new JTextField(); 
         t5.setBounds (200, 360, 150, 25);
         add (t5);
